@@ -1,4 +1,4 @@
 # Hasil Penilaian
 
-![Hasil Penilaian](penilaian/Penilaian.png)
+![Hasil Penilaian](Penilaian.png)
 
