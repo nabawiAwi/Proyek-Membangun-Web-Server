@@ -24,6 +24,3 @@ Proyek ini merupakan submission untuk kelas **Belajar Jaringan Komputer untuk Pe
 - **konfigurasiNGINX.conf**
 - **ports_MuhammadNabawi.txt**
 
----
-
-💡 *Repository ini merupakan bagian dari portofolio saya dalam mempelajari jaringan komputer dan server administration.*
